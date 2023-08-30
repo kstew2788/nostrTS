@@ -1,0 +1,22 @@
+{
+  "name": "nostrty",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ecpair": "^2.1.0",
+    "tiny-secp256k1": "^2.2.3",
+    "ws": "^8.13.0"
+  },
+  "devDependencies": {
+    "@types/bitcoinjs-lib": "^5.0.0",
+    "@types/node": "^20.5.7",
+    "@types/ws": "^8.5.5"
+  }
+}
